@@ -1,9 +1,6 @@
 ### Current Known Languages:
 
-<p align="left" dir="auto">
-  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" style="max-width: 100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" style="max-width: 100%;"></a></code>
-</p>
+<img src="https://camo.githubusercontent.com/97dd93be4a9fdc9c7e8850869a178ace9b3bf00e64b96d42e1f4cef4665050bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d3339343938393f7374796c653d706c6173746963266c6f676f3d706870" alt="Php" data-canonical-src="https://img.shields.io/badge/-php-394989?style=plastic&amp;logo=php" style="max-width: 100%;">
 
 
   
